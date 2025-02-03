@@ -177,3 +177,5 @@ docs/
 mkdocs.yml
 assets/
 logs/
+
+.DS_Store/
