@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# Exclude docs, logs and assets (image storage)
+docs/
+mkdocs.yml
+assets/
+logs/

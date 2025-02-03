@@ -1,0 +1,13 @@
+192.168.4.13:
+  cameras:
+    camera1:
+      camera_pos: X1Y1
+      last_captured: '2025-02-03T17:53:19.675301'
+      status: success
+    camera2:
+      camera_pos: X1Y2
+      last_captured: '2025-02-03T17:53:19.675301'
+      status: success
+  last_accessed: '2025-02-03T18:07:18.544847'
+  last_update: '2025-02-03'
+  status: online
