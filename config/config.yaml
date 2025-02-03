@@ -8,16 +8,3 @@ router:
   user: robo
   password: robotV3
   options: -o StrictHostKeyChecking=no
-
-leader:
-  device: mac
-
-files:
-  lease_file: CurrentLeases.csv
-  camera_file: Camera_Locations.csv
-  imaging_log: imaging_log
-
-timeouts:
-  button_press_timeout: 60
-  polling_interval: 1
-
